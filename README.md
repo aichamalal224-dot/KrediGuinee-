@@ -1,2 +1,16 @@
 # KrediGuinee_V10_message_commercant
 Application de gestion des clients, crédits, paiements et ventes pour les commerçants en Guinée.
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KrediGuinée</title>
+</head>
+<body>
+  <script>
+    window.location.href = "./KrediGuinee_V10_message_commercant.html";
+  </script>
+  <p>Ouverture de KrediGuinée...</p>
+</body>
+</html>
